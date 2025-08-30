@@ -5,6 +5,7 @@ locals {
   zone1       = "us-east-2a"
   zone2       = "us-east-2b"
   eks_version = "1.29"
+  test        = "test"
 }
 
 
